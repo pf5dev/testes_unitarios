@@ -3,7 +3,7 @@
 Suponha que você foi contratado para realizar testes automatizados para um sistema escolar. O módulo para avaliar a nota de um aluno recebe como entrada três notas obtidas pelo aluno em provas, e também, a média dos exercícios e calcula a média de aproveitamento de acordo com a fórmula abaixo:
 
 $$
-media-aproveitamento=\frac{n_1+2*n_2+3*n_3+mediaexercicios}{7}
+\text{media-aproveitamento}=\frac{n_1+2\cdot n_{2}+3 \cdot n_{3}+ \text{mediaexercicios}}{7}
 $$
 
 A atribuição de conceitos obedece a tabela abaixo:
@@ -21,7 +21,7 @@ $$
 avaliarnotas(n1, n2, n3, mediaexercicios): ...
 $$
 $$
-mediaaproveitamento(n_1 + 2*n_2 + 3*n_3 + mediaexercicios/7): ...
+\text{media-aproveitamento((n1+2*n2+3*n3+mediaexercicios)/7): ...}
 $$
 
 Utilize os valores abaixo como parâmetros de entrada e saída da função: 
