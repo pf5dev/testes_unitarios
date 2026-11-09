@@ -20,8 +20,7 @@ Escreva testes unitários para as funções do módulo *escolar.py*:
 $$
 avaliarnotas(n1, n2, n3, mediaexercicios): ...
 $$
-$$
-\text{mediaaproveitamento((n1+2*n2+3*n3+mediaexercicios)/7): ...}
+$$mediaaproveitamento((n1+2*n2+3*n3+mediaexercicios)/7): ...
 $$
 
 Utilize os valores abaixo como parâmetros de entrada e saída da função: 
