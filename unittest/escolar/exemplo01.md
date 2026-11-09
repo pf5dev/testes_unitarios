@@ -21,7 +21,7 @@ $$
 avaliarnotas(n1, n2, n3, mediaexercicios): ...
 $$
 $$
-\text{media-aproveitamento((n1+2*n2+3*n3+mediaexercicios)/7): ...}
+\text{mediaaproveitamento((n1+2*n2+3*n3+mediaexercicios)/7): ...}
 $$
 
 Utilize os valores abaixo como parâmetros de entrada e saída da função: 
