@@ -18,6 +18,7 @@ $$
 - saída: 'Requerer aposentadoria' ou 'Não requerer'
 
 Utilize os valores abaixo como parâmetros de entrada e saída da função:
+
 $$
 verificarqualificacaoempregado(idade, tempodeservico): ..
 $$
